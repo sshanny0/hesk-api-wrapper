@@ -1,0 +1,11 @@
+# Mengabaikan kredensial asli
+.env
+
+# Mengabaikan virtual environment (karena membebani repo dan spesifik per OS)
+venv/
+
+# Mengabaikan cache python
+__pycache__/
+*.pyc
+
+attachments/
